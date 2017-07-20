@@ -2,8 +2,9 @@ package prog;
 
 public class Ciao {
 	public static void main(String[] args) {
-		System.out.println("ccccciaoaaa");
+		System.out.println("ccccciaoaaanoooo");
 		//diverso
+		
 		
 	}
 
